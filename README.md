@@ -4,7 +4,7 @@ proyecto para trabajo colaborativo con github y git
 # Herramientas
 * vscode
 * git
-* github
+* githubgit
 
 # Lenguajes
 * html
